@@ -8,3 +8,5 @@ Now  a days we are facing many problems due to blood demand and shortage. At the
 ->Machine learning
 ->Python libraries
 ->classification
+
+#Google colab link:-https://colab.research.google.com/drive/1OrZ49YXyulWlcwtZxAyzB-wZR7qTK5YQ?usp=sharing

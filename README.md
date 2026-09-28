@@ -11,4 +11,7 @@ Now  a days we are facing many problems due to blood demand and shortage. At the
 
 #Google colab link:-https://colab.research.google.com/drive/1OrZ49YXyulWlcwtZxAyzB-wZR7qTK5YQ?usp=sharing
 
+## Project Prototype
+
+Figma Prototype:
 https://www.figma.com/proto/1lnSRfapwqpNfc69v6IRKC/Untitled?node-id=0-1&t=qY40aFZfjqI0bXf2-1
